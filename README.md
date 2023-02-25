@@ -14,12 +14,10 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf GW-Team-BD`
-- `git clone --depth=1 https://github.com/GW-Team-BD/GWTBD.git`
-- `cd GWTBD`
+- `rm -rf GROUP-EXTRACTOR`
+- `git clone --depth=1 https://github.com/GWTBD/GROUP-EXTRACTOR.git`
+- `cd GROUP-EXTRACTOR`
 - `python deta.py`
-- `python wifi.py`
-
 
 
  ___This Tools is Paid___</br>
